@@ -7,7 +7,7 @@
 body{
     font-family: "Poppins", sans-serif;
     margin: 0;
-    background-image: url("images/tica.jpg");
+    background-image: url("tica.jpg");
     min-height: 100vh;
     background-position: center center ;
     background-size:size;
